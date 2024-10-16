@@ -4,7 +4,7 @@ source 'https://rubygems.org'
 group :development do
   gem 'emeril', '~> 0.8.0'
   gem 'guard', '~> 2.13.0'
-  gem 'guard-foodcritic', '~> 2.0.0'
+  gem 'guard-foodcritic', '~> 2.1.0'
   gem 'guard-rspec', '~> 4.6.4'
   gem 'guard-rubocop', '~> 1.2.0'
 end
