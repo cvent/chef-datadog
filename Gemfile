@@ -21,7 +21,7 @@ end
 
 group :integration do
   gem 'kitchen-docker', '~> 2.3.0'
-  gem 'kitchen-vagrant', '~> 0.19.0'
+  gem 'kitchen-vagrant', '~> 0.21.1'
   gem 'test-kitchen', '~> 1.4.2'
   gem 'travis-lint'
   gem 'serverspec'
