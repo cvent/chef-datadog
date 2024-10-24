@@ -15,7 +15,7 @@ group :test do
   gem 'coveralls', '~> 0.8.3', require: false
   gem 'foodcritic', '~> 5.0.0'
   gem 'json_spec', '~> 1.1.4'
-  gem 'rake', '>= 10.2'
+  gem 'rake', '>= 10.5.0'
   gem 'rubocop', '= 0.34.2'
 end
 
